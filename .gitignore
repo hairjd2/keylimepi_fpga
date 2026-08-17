@@ -1,0 +1,16 @@
+*
+!.gitignore
+!*/
+!**/*.md
+!**/*.pdf
+!**/.gitkeep
+
+!build/Makefile
+!build/scripts/*.tcl
+!**/README.md
+
+!src/rtl/**/*.sv
+!src/ip/**/*.xci
+!src/constraints/*.xdc
+!src/init_files/*.coe
+!legacy/**
